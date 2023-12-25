@@ -1,6 +1,6 @@
-<!--
+<#--
 
-IMPORTANT! Please read the issue template carefully before creating a new issue.
+IMPORTANT* Please read the issue template carefully before creating a new issue.
 
 -->
 
@@ -10,7 +10,7 @@ If your issue is not related to installing opencv4nodejs, go ahead deleting the 
 
 -->
 
-# Error Message
+  Error Message
 
 <!--
 
@@ -62,4 +62,4 @@ If you are using the auto build feature, delete this section.
 
 *With OpenCV-contrib?* (extra modules): yes/no?
 
-*OS*: Windows 7 / 8 / 10? / MacOSX? / Ubuntu? ...
+*OS*: Windows 7 / 8 / 10? / MacOSX? / Ubuntu? ... 
